@@ -3,6 +3,7 @@ html {
 }
 .boxes {
   border: 3px solid green;
+  position: relative;
 }
 
 .box {
@@ -16,9 +17,9 @@ html {
 
 .box-two {
   background-color: blue;
-  position: relative;
-  left: 14rem;
-  top: 10rem;
+  position: absolute;
+  right: 0;
+  top: 0;
 }
 
 .box-three {
