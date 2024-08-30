@@ -1,0 +1,26 @@
+html {
+  font-size: 62.5%;
+}
+.boxes {
+  border: 3px solid green;
+}
+
+.box {
+  width: 15rem;
+  height: 15rem;
+}
+
+.box-one {
+  background-color: yellow;
+}
+
+.box-two {
+  background-color: blue;
+  position: relative;
+  left: 14rem;
+  top: 10rem;
+}
+
+.box-three {
+  background-color: orange;
+}
